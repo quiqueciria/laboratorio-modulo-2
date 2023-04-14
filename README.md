@@ -1,3 +1,7 @@
+# Laboratorio Módulo 2 Tipos de datos de datos y operadores
+
+He usado el sandbox de TypeScript para hacer la práctica del módulo 2
+
 # typescript-sandbox
 
 Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
